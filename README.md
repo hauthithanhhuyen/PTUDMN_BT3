@@ -18,7 +18,8 @@ Cài Docker Compose:
 3. Chạy hệ thống Docker
    <img width="1916" height="417" alt="image" src="https://github.com/user-attachments/assets/3b6b08c3-88b0-495a-82e9-66cf3bf8875c" />
 4. Truy cập hệ thống
-   <img width="1842" height="968" alt="image" src="https://github.com/user-attachments/assets/056da7f0-816c-4ff1-80dc-38228826d7d6" />
+ <img width="1842" height="968" alt="image" src="https://github.com/user-attachments/assets/056da7f0-816c-4ff1-80dc-38228826d7d6" />
 <img width="1909" height="802" alt="image" src="https://github.com/user-attachments/assets/d36d5c52-0141-4ba2-8ed9-d80a85a22939" />
 <img width="1715" height="704" alt="image" src="https://github.com/user-attachments/assets/dd0cdd41-a380-46ec-ad11-5b6fc2889408" />
-5
+5 Tạo 1 bài viết trong wordpress giới thiệu về bản thân sinh viên: thông tin cá nhân, sở thích, ... bài viết có thể chứa hình ảnh, âm thanh, video, ...
+<img width="1767" height="879" alt="image" src="https://github.com/user-attachments/assets/8bfd363b-13ea-498e-8d9a-7ccaf73de298" />
